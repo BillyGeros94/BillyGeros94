@@ -54,7 +54,7 @@
 
 Explore my detailed projects and case studies on **[my portfolio website](https://billygeros94.github.io/Portfolio/)**. It highlights my work across various domains and tools, providing a comprehensive view of my skills and achievements. 💡
 
-I’m passionate about leveraging data to solve real-world problems and am always open to new opportunities and collaborations. Whether you’re looking to discuss data science, brainstorm innovative solutions, or explore potential projects together, I’d love to connect!
+Whether you’re looking to discuss data science, brainstorm innovative solutions, or explore potential projects together, I’d love to connect!
 
 **• LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/vasilis-gerontatis-46169814a/) 🔗
 
