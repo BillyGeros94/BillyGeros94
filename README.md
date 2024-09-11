@@ -60,4 +60,4 @@ Whether you’re looking to discuss data science, brainstorm innovative solution
 
 **• Email:** vgerontatis94@gmail.com 📧
 
-Feel free to reach out—I’m eager to connect and explore how we can work together to drive impactful results! 🚀
+Feel free to reach out🚀
