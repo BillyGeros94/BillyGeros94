@@ -12,17 +12,6 @@
     
   **• Database Management:** SQL 
 
-- **Core Competencies:** 🎯
-
-  • Advanced Statistical Analysis
-
-  • Data Reporting and Interpretation
-
-  • Data Integration and Transformation
-
-  • Data Quality and Integrity
-
-
 - **Soft Skills:** 💼
 
   • Analytical Problem Solving
