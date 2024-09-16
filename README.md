@@ -35,21 +35,6 @@
     
   • Adaptability and Creativity
 
-
-- ***Projects Overview:***
-
-  I’m excited to showcase some of the projects featured on my portfolio website. Here’s a glimpse into the kind of work I have done:
-
-  **• Exploratory Data Analysis (EDA):** Using Python and libraries like Pandas and Matplotlib to uncover insights, patterns, and trends within data. 🔍
-
-  **• Data Cleaning and Preparation:** Applying data preprocessing techniques with Python and Excel to ensure data quality and readiness for analysis. 🧹
-
-  **• Data Visualization:** Creating compelling visualizations and interactive dashboards using PowerBI, Tableau, and Excel to effectively communicate insights and trends.  📈
-
-  **• Database Management and Development:** Designing and managing SQL databases to handle and query large datasets efficiently. 🗃️
-
-  **• Data Reporting and Interpretation:** Generating comprehensive reports and interpreting results to provide actionable insights for decision-making. 📑
-
 ***Portfolio:***
 
 Explore my detailed projects and case studies on **[my portfolio website](https://billygeros94.github.io/Portfolio/)**. It highlights my work across various domains and tools, providing a comprehensive view of my skills and achievements. 💡
