@@ -14,13 +14,11 @@
 
 - **Soft Skills:** 💼
 
-  • Analytical Problem Solving
+  • Problem Solving
 
   • Critical Thinking
     
   • Effective Communication
-
-  • Team Collaboration
     
   • Adaptability and Creativity
 
